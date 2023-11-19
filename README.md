@@ -1,0 +1,2 @@
+# latihan
+latihan query dasar
